@@ -1,0 +1,2 @@
+
+using from './fioriemployeeapp/annotations';
