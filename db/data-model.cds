@@ -11,3 +11,7 @@ entity Employees {
         department  : String;
 }
 
+entity Designations {
+    key code        : UUID;
+        description : String;
+}
