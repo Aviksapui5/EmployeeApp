@@ -15,3 +15,8 @@ entity Departments {
     key code : String;
         name : String;
 }
+
+entity Designations {
+    key code        : UUID;
+        description : String;
+}
