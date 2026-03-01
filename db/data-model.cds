@@ -11,3 +11,7 @@ entity Employees {
         department  : String;
 }
 
+entity Departments {
+    key code : String;
+        name : String;
+}
